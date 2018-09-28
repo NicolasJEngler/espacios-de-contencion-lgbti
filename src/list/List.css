@@ -1,6 +1,6 @@
 .List {
   background: var(--light-background);
-  padding: 20px;
+  padding: 30px;
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(1, 1fr);
