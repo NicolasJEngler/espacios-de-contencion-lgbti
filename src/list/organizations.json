@@ -1,0 +1,78 @@
+{
+    "ladescolonizada": {
+        "name": "La Descolonizada",
+        "description": "Somos una colectiva feminista, popular y sexodisidente de la ciudad de Esperanza, Santa Fe.",
+        "location": "Esperanza, Santa Fe",
+        "image_url": "https://i.imgur.com/JSS8HQL.jpg",
+        "twitter_url": "https://www.twitter.com/LaDescolonizada/",
+        "facebook_url": "https://www.facebook.com/LaDescolonizada/",
+        "instagram_url": "https://www.instagram.com/LaDescolonizada/"
+    },
+    "revuelodisidencia": {
+        "name": "Revuelo Disidencia",
+        "description": "Organización, resistencia e insolencia #LGBTIq 🏳‍🌈 #AbortoLegalYa #BastaDeTravesticidios #AbsolucionParaJoe #EstadoLaicoYa",
+        "location": "Rafaela, Santa Fe",
+        "image_url": "https://i.imgur.com/aUO09WX.jpg",
+        "twitter_url": "https://twitter.com/RevueloD/",
+        "facebook_url": "https://www.facebook.com/revuelodisidencia/",
+        "instagram_url": "https://www.instagram.com/revueloferiante/"
+    },
+    "chicostranssf": {
+        "name": "Chicos trans de Santa Fe",
+        "description": "Somos un grupo de varones transexuales/transgénero de la provincia de Santa Fe.",
+        "location": "Santa Fe, Santa Fe",
+        "image_url": "https://i.imgur.com/r57sGBJ.jpg",
+        "facebook_url": "https://www.facebook.com/pages/category/Personal-Blog/Chicos-trans-de-Santa-fe-139239490125159/",
+        "instagram_url": "https://www.instagram.com/chicos_trans_sf/"
+    },
+    "sigla": {
+        "name": "Sociedad de integración gay-lésbica de Argentina",
+        "description": "SIGLA es una organización no gubernamental que lucha contra la homofobia mediante el conocimiento científico de la homosexualidad y la perspectiva de género.",
+        "location": "CABA, Buenos Aires",
+        "image_url": "https://i.imgur.com/1QuHrgk.jpg",
+        "twitter_url": "https://twitter.com/sigla_argentina/",
+        "facebook_url": "https://www.facebook.com/siglafans/"
+    },
+    "crefor": {
+        "name": "Federación CREFOR",
+        "description": "La Federación CREFOR es una organización de segundo grado creada en 2002 e integrada por entidades sin fines de lucro, con trabajo en VIH/SIDA y diversidad sexual.",
+        "location": "Córdoba, Córdoba",
+        "image_url": "https://i.imgur.com/Oo9HJoa.jpg"
+    },
+    "radioorgullo": {
+        "name": "Radio Orgullo",
+        "description": "En defensa de los derechos del colectivo lgbti. Por el respeto, la visibilidad y la aceptación.",
+        "location": "Santa Fe, Santa Fe",
+        "image_url": "https://i.imgur.com/GsKTbUq.jpg",
+        "facebook_url": "https://www.facebook.com/pg/Radio-Orgullo-754571958003727/"
+    },
+    "atts": {
+        "name": "ATTS",
+        "description": "Asociación de Trans y Trabajdorxs Sexuales por la Disidencia Sexual - Desde el 2009 luchando por nuestros derechos.",
+        "location": "Gral. Roca, Río Negro",
+        "image_url": "https://i.imgur.com/gf9syrx.jpg",
+        "facebook_url": "https://www.facebook.com/ATTS-375270412664984/"
+    },
+    "bocavulvaria": {
+        "name": "Bocavulvaria",
+        "description": "Bocavulvaria Ediciones es un emprendimiento editorial autogestivo, destinado a la difusión de textos de teoría feminista y cuir.",
+        "image_url": "https://i.imgur.com/AfEXMXa.jpg",
+        "facebook_url": "https://www.facebook.com/pg/bocavulvaria/"
+    },
+    "rajapvih": {
+        "name": "Red Argentina de Jóvenes y Adolescentes Positivos",
+        "description": "Somos una red de jóvenes y adolescentes de entre 14 y 30 años inclusive que vivimos con VIH.",
+        "image_url": "https://i.imgur.com/nUk5s0C.jpg",
+        "twitter_url": "https://twitter.com/rajap_",
+        "facebook_url": "https://www.facebook.com/pg/RAJAPVIH/",
+        "instagram_url": "https://www.instagram.com/rajap.arg/"
+    },
+    "aequalisculturadiversa": {
+        "name": "Asociación Civil AEqualis Cultura Diversa",
+        "description": "Trabajamos en la promoción de los derechos humanos y derechos sexuales reproductivos y no reproductivos de personas sexodiversas de San Juan, Argentina",
+        "location": "San Juan, San Juan",
+        "image_url": "https://i.imgur.com/Sw7OEs4.jpg",
+        "facebook_url": "https://www.facebook.com/aequalisculturadiversa/",
+        "instagram_url": "https://www.instagram.com/aequaliscultura/"
+    }
+}

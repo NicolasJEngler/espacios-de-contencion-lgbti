@@ -1,0 +1,64 @@
+.App-header {
+  background-color: #222;
+  background-image: linear-gradient(to bottom, #ff0000 0%, #ff0000 16%, #fb5607 16%, #fb5607 32%, #fcab10 32%, #fcab10 48%, #44af69 48%, #44af69 64%, #2b9eb3 64%, #2b9eb3 82%, #5c27aa 82%, #5c27aa 100%);
+  background-repeat: no-repeat;
+  background-size: 50px 30px;
+  background-position: 50% 20px;
+  background-position: 50% calc(100% - 20px);
+  padding: 20px 20px 65px 20px;
+  color: white;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .App-header {
+    padding: 20px;
+    background-repeat: no-repeat;
+    background-size: 150px 100%;
+    background-position: 100% 0;
+    text-align: left;
+  }
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 0 0 10px 0;
+}
+
+.App-subtitle {
+  line-height: 1.4;
+}
+
+.App-footer {
+  text-align: center;
+  max-width: 980px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.App-footer strong {
+  font-weight: 700;
+}
+
+.App-footer p {
+  line-height: 1.4;
+  font-size: .875em;
+  margin: 0 0 10px 0;
+}
+
+.App-footer a {
+  color: #222;
+  text-decoration: none;
+  border-bottom: 1px solid #222;
+  padding-bottom: 2px;
+}
+
+.App-footer a:hover,
+.App-footer a:active,
+.App-footer a:focus {
+  border-bottom-color: transparent;
+}
+
+.App-footer a:visited {
+  border-bottom-style: dashed;
+}
