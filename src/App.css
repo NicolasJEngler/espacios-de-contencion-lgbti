@@ -41,24 +41,24 @@
 }
 
 .App-footer p {
-  line-height: 1.4;
-  font-size: .875em;
-  margin: 0 0 10px 0;
+    line-height: 1.4;
+    font-size: .875em;
+    margin: 0 0 10px 0;
 }
 
 .App-footer a {
-  color: #222;
-  text-decoration: none;
-  border-bottom: 1px solid #222;
-  padding-bottom: 2px;
+    color: #222;
+    text-decoration: none;
+    border-bottom: 1px solid #222;
+    padding-bottom: 2px;
 }
 
 .App-footer a:hover,
 .App-footer a:active,
 .App-footer a:focus {
-  border-bottom-color: transparent;
+    border-bottom-color: transparent;
 }
 
 .App-footer a:visited {
-  border-bottom-style: dashed;
+    border-bottom-style: dashed;
 }

@@ -16,3 +16,7 @@ div,
 span {
     font-family: var(--rubik);
 }
+
+.hidden {
+    display: none;
+}
