@@ -1,5 +1,5 @@
 .App-header {
-  background-color: #222;
+  background-color: #902090;
   background-image: linear-gradient(to bottom, #ff0000 0%, #ff0000 16%, #fb5607 16%, #fb5607 32%, #fcab10 32%, #fcab10 48%, #44af69 48%, #44af69 64%, #2b9eb3 64%, #2b9eb3 82%, #5c27aa 82%, #5c27aa 100%);
   background-repeat: no-repeat;
   background-size: 50px 30px;
@@ -13,6 +13,7 @@
 @media screen and (min-width: 1024px) {
   .App-header {
     padding: 30px;
+    background-image: linear-gradient(135deg, transparent 0%, transparent 50%, #ff0000 50%, #ff0000 58%, #fb5607 58%, #fb5607 66%, #fcab10 66%, #fcab10 74%, #44af69 74%, #44af69 82%, #2b9eb3 82%, #2b9eb3 90%, #5c27aa 90%, #5c27aa 100%);
     background-repeat: no-repeat;
     background-size: 200px 100%;
     background-position: 100% 0;

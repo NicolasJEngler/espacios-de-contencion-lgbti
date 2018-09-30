@@ -2,7 +2,7 @@
     background: var(--light-background);
     padding: 30px;
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 40px 30px;
     grid-template-columns: repeat(1, 1fr);
     grid-auto-rows: minmax(min-content, max-content);
     min-height: 100vh;

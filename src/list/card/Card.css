@@ -2,7 +2,7 @@
     border: 1px solid rgba(0, 0, 0, .1);
     border-radius: 3px;
     background: #fff;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+    box-shadow: 0 30px 30px -15px rgba(0, 0, 0, .1);
     height: auto;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@
 
 .Card-location {
     border-radius: 3px;
-    background: #5c27aa;
+    background: #902090;
     align-self: flex-start;
     color: #fff;
     padding: 4px;
