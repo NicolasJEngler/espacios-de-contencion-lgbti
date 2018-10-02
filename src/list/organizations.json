@@ -17,6 +17,13 @@
         "facebook_url": "https://www.facebook.com/revuelodisidencia/",
         "instagram_url": "https://www.instagram.com/revueloferiante/"
     },
+    "comarcadiversa": {
+        "name": "Comarca Diversa",
+        "description": "Somos Comarca Diversa y Mujeres Trans de Viedma. ¡Estamos por la inclusión laboral y la defensa de los derechos del colectivo LGBTI+ y trabajadores sexuales!",
+        "location": "Viedma, Río Negro",
+        "image_url": "https://i.imgur.com/Csk1A4j.jpg",
+        "facebook_url": "https://www.facebook.com/ComarcaDiversa/"
+    },
     "chicostranssf": {
         "name": "Chicos trans de Santa Fe",
         "description": "Somos un grupo de varones transexuales/transgénero de la provincia de Santa Fe.",
@@ -74,5 +81,12 @@
         "image_url": "https://i.imgur.com/Sw7OEs4.jpg",
         "facebook_url": "https://www.facebook.com/aequalisculturadiversa/",
         "instagram_url": "https://www.instagram.com/aequaliscultura/"
+    }
+    "lgbtvillagessel": {
+        "name": "Gesell libre y diversa",
+        "description": "Por una Villa Gesell libre y diversa.",
+        "location": "Villa Gesell, Buenos Aires",
+        "image_url": "https://i.imgur.com/tJfz943.png",
+        "facebook_url": "https://www.facebook.com/LGBTGesellLibre/"
     }
 }
